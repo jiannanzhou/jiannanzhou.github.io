@@ -13,33 +13,11 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
     <div class="media-body">
        <p class="media-heading">
           <strong>Survey Evidence on Habit Formation</strong><br />
-          Yingwei Li, Song Bai, Yuyin Zhou, <b>Cihang Xie</b>, Zhishuai Zhang, Alan Yuille<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1812.03413.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/ghost-network">[CODE]</a><br />
+          <a href="https://spot.colorado.edu/~xiaodong/social_interactions_with_ordered_choices.pdf">[PDF]</a><br />
        </p>
     </div>
 </div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Feature Denoising for Improving Adversarial Robustness</strong><br />
-          <b>Cihang Xie</b>, Yuxin Wu, Laurens van der Maaten, Alan Yuille, Kaiming He<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019<br />
-          This work ranked <b>No.1</b> in the adversarial defense track of <a href="http://hof.geekpwn.org/caad/en/index.html">CAAD 2018 Challenge</a><br />
-          <a href="https://arxiv.org/pdf/1812.03411.pdf">[PDF]</a> <a href="https://github.com/facebookresearch/ImageNet-Adversarial-Training">[CODE]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Improving Transferability of Adversarial Examples with Input Diversity</strong><br />
-          <b>Cihang Xie</b>, Zhishuai Zhang, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019<br />
-          <a href="https://arxiv.org/pdf/1803.06978.pdf">[PDF]</a> <a href="https://github.com/cihangxie/DI-2-FGSM">[CODE]</a><br />
-       </p>
-    </div>
-</div>
+
 <h3>
     <a name='Works in Progress'></a> Works in Progress
 </h3>
