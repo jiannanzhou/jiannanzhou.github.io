@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Publications
+title: Research
 ---
 
 You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZPcAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>.
 <br />
 
 <h3>
-    <a name='2019'></a> 2019
+    <a name='Publication'></a> Publication
 </h3>
 <div class="media">
     <div class="media-body">
@@ -52,7 +52,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
     </div>
 </div>
 <h3>
-    <a name='2018'></a> 2018
+    <a name='Works in Progress'></a> Works in Progress
 </h3>
 <div class="media">
     <div class="media-body">
