@@ -41,7 +41,7 @@ avatar: "/img/jiannan.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Jiannan Zhou
-  email: "jizh5489@colorado.edu"
+  email: "jiannan.zhou@colorado.edu"
 
 # Select which links to show in the footer
 footer-links-active:
