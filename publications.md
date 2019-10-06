@@ -12,7 +12,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>A Social Interaction Model With Ordered Choices</strong><br />
+          <strong>A Social Interaction Model With Ordered Choices</strong> (with Xiaodong Liu)<br />
           <a href="https://spot.colorado.edu/~xiaodong/social_interactions_with_ordered_choices.pdf">[PDF]</a><br />
        </p>
     </div>
