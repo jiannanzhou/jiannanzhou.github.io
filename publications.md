@@ -12,13 +12,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Learning Transferable Adversarial Examples via Ghost Networks</strong><br />
+          <strong>Survey Evidence on Habit Formation</strong><br />
           Yingwei Li, Song Bai, Yuyin Zhou, <b>Cihang Xie</b>, Zhishuai Zhang, Alan Yuille<br />
           Tech report, arXiv<br />
           <a href="https://arxiv.org/pdf/1812.03413.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/ghost-network">[CODE]</a><br />
