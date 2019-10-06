@@ -7,12 +7,12 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <br />
 
 <h3>
-    <a name='Job Market Paper'></a> Job Market Papers
+    <a name='Job Market Paper'></a> Job Market Paper
 </h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Survey Evidence on Habit Formation</strong> (with Xiaodong Liu)<br />
+          <strong>Survey Evidence on Habit Formation</strong><br />
        </p>
     </div>
 </div>
@@ -35,7 +35,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Survey Evidence on Habit Formation</strong> (with Xiaodong Liu)<br />
+          <strong>A Micro-consistent Habit Formation Model</strong><br />
        </p>
     </div>
 </div>
