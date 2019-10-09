@@ -38,7 +38,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>A Micro-Consistent Habit Formation Model</strong><br />
+          <strong>A Micro-Consistent Habit Formation Model</strong> (with Miles Kimball) <br />
        </p>
     </div>
 </div>
