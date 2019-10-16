@@ -15,7 +15,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
     <div class="media-body">
        <p class="media-heading">
           <strong>Survey Evidence on Habit Formation</strong><br />
-           PDF coming soon <br />
+          <a href="/research/habit_survey/survey_evidence_on_habit_formation.pdf">[PDF]</a><br />
        </p>
     </div>
 </div>
