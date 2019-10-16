@@ -33,7 +33,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 </div>
 
 <h3>
-    <a name='Work in Progress'></a> Works in Progress
+    <a name='Work in Progress'></a> Work in Progress
 </h3>
 <div class="media">
     <div class="media-body">
