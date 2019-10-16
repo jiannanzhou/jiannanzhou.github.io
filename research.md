@@ -14,7 +14,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Survey Evidence on Habit Formation</strong><br />
+          "Survey Evidence on Habit Formation"<br />
           <a href="/research/habit_survey/survey_evidence_on_habit_formation.pdf">[PDF]</a><br />
        </p>
     </div>
@@ -39,7 +39,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Eliciting Structural Parameters in Semiparametric Preferences</strong> <br />
+          "Eliciting Structural Parameters in Semiparametric Preferences" <br />
        </p>
     </div>
 </div>
@@ -47,7 +47,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>A Micro-Consistent Habit Formation Model</strong> (with Miles Kimball) <br />
+          "A Micro-Consistent Habit Formation Model" with Miles Kimball <br />
        </p>
     </div>
 </div>
@@ -55,7 +55,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Measuring Altruism</strong> (with Miles Kimball) <br />
+          "Measuring Altruism" with Miles Kimball <br />
        </p>
     </div>
 </div>
