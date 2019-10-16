@@ -26,7 +26,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          "A Social Interaction Model with Ordered Choices" with Xiaodong Liu, <i>Economics Letters</i>, 2017. <br />
+          &#8220;A Social Interaction Model with Ordered Choices&#8221; with Xiaodong Liu, <i>Economics Letters</i>, 2017. <br />
           <!-- <a href="https://spot.colorado.edu/~xiaodong/social_interactions_with_ordered_choices.pdf">[PDF]</a><br /> -->
           <a href="/research/ordered_choice/social_interactions_with_ordered_choices.pdf">[PDF]</a><br />
        </p>
@@ -39,7 +39,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          "Eliciting Structural Parameters in Semiparametric Preferences" <br />
+          &#8220;Eliciting Structural Parameters in Semiparametric Preferences&#8221; <br />
        </p>
     </div>
 </div>
@@ -47,7 +47,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          "A Micro-Consistent Habit Formation Model" with Miles Kimball <br />
+          &#8220;A Micro-Consistent Habit Formation Model&#8221; with Miles Kimball <br />
        </p>
     </div>
 </div>
@@ -55,7 +55,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          "Measuring Altruism" with Miles Kimball <br />
+          &#8220;Measuring Altruism&#8221; with Miles Kimball <br />
        </p>
     </div>
 </div>
