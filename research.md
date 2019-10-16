@@ -33,12 +33,28 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 </div>
 
 <h3>
-    <a name='Works in Progress'></a> Works in Progress
+    <a name='Work in Progress'></a> Works in Progress
 </h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Eliciting Structural Parameters in Semiparametric Preferences</strong> <br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>A Micro-Consistent Habit Formation Model</strong> (with Miles Kimball) <br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Measuring Altruism</strong> (with Miles Kimball) <br />
        </p>
     </div>
 </div>
