@@ -1,1 +1,1 @@
-Designed and Built by Dean Attali
+Credit to Dean Attali
