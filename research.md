@@ -55,7 +55,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          &#8220;Measuring Altruism&#8221; with Miles Kimball <br />
+          &#8220;Measuring Altruism&#8221; <br />
        </p>
     </div>
 </div>
