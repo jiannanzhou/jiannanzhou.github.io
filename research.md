@@ -47,6 +47,14 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          &#8220;Measuring Altruism&#8221; <br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           &#8220;A Micro-Consistent Habit Formation Model&#8221; with Miles Kimball <br />
        </p>
     </div>
@@ -55,8 +63,10 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxt
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          &#8220;Measuring Altruism&#8221; <br />
+          &#8220;Efficiency Wage and Cost of Business Cycles&#8221; with Miles Kimball <br />
        </p>
     </div>
 </div>
+
+
 
