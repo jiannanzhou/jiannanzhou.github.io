@@ -11,7 +11,7 @@ Abstract: Habit formation captures the human nature of response decrement to rep
 ## Publication
 
 ### "A Social Interaction Model with Ordered Choices" with Xiaodong Liu, *Economics Letters*, 2017.
-[PDF](/research/ordered_choice/social_interactions_with_ordered_choices.pdf)
+[[PDF]](/research/ordered_choice/social_interactions_with_ordered_choices.pdf)
 
 <!--
 You can also browse my <a href="https://scholar.google.com/citations?user=-_FDxtIAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
