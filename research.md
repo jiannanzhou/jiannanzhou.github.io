@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+markdown: kramdown
 ---
 
 ### Job Market Paper
