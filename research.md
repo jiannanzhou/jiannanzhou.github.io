@@ -19,8 +19,8 @@ Abstract: Habit formation captures the human nature of response decrement to rep
 
 “Eliciting Structural Parameters in Semiparametric Preferences”
 
-“A Micro-Consistent Habit Formation Model” with Miles Kimball
+“A Micro-Consistent Habit Formation Model”
 
-“Efficiency Wage and Cost of Business Cycles” with Miles Kimball
+“Efficiency Wage and Cost of Business Cycles”
 
 
