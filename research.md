@@ -19,8 +19,8 @@ Abstract: Habit formation captures the human nature of response decrement to rep
 
 “Eliciting Structural Parameters in Semiparametric Preferences”
 
-“A Micro-Consistent Habit Formation Model”
+“Efficiency Wages and the Cost of Business Cycles”
 
-“Efficiency Wage and Cost of Business Cycles”
+“Habit Formation Preferences Consistent with Survey Evidence: Axiomatics and Implications”
 
 
