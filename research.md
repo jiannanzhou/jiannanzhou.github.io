@@ -17,8 +17,6 @@ Abstract: Habit formation captures the human nature of response decrement to rep
 ### Work in Progress
 “Measuring Altruism”
 
-“Eliciting Structural Parameters in Semiparametric Preferences”
-
 “Efficiency Wages and the Cost of Business Cycles”
 
 “Habit Formation Preferences Consistent with Survey Evidence: Axiomatics and Implications”
