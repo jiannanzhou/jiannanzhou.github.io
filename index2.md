@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi, I'm Jiannan Zhou
-subtitle:
+# subtitle:
 use-site-title: true
 # bigimg: "/img/jiannan.jpg"
 # show-avatar: false
