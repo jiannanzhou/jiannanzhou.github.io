@@ -7,8 +7,8 @@ use-site-title: true
 # show-avatar: false
 ---
 
-<p>I'm a Ph.D. candidate in Economics at the University of Colorado Boulder. My research interests are macroeconomics, behavioral economics, cognitive economics, and econometrics. My current work focuses on direct survey measurement of preference parameters.</p>
+I'm a Ph.D. candidate in Economics at the University of Colorado Boulder. My research interests are macroeconomics, behavioral economics, cognitive economics, and econometrics. My current work focuses on direct survey measurement of preference parameters.
 
-<p>Please find my CV <a href="/CV-Jiannan.pdf">here</a> and my research <a href="/research">here</a>.</p>
+Please find my CV here[/CV-Jiannan.pdf] and my research here[/research].
 
-<p>I will be available for interviews at the <strong> 2020 ASSA Meetings </strong> in San Diego.</p>
+I will be available for interviews at the **2020 ASSA Meetings** in San Diego.
