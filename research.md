@@ -1,7 +1,7 @@
 ---
 layout: page
 use-site-title: true
-#title: Research
+title: Research
 ---
 
 ### Research Papers
