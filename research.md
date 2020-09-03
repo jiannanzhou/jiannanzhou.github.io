@@ -5,12 +5,13 @@ title: Research
 ---
 
 ### Working Paper
-**Survey Evidence on Habit Formation** (Job Market Paper) [[PDF]](/research/habit_survey/survey_evidence_on_habit_formation.pdf)  
+**Survey Evidence on Habit Formation** (Job Market Paper) [[Paper]](/research/habit_survey/Habit_Zhou_Paper.pdf) [[Appendix]](/research/habit_survey/Habit_Zhou_Appendix.pdf)    
 
 <font size="4">Habit formation is a staple of macroeconomics and finance, but insufficient micro evidence has led to controversies over its existence, specification, and implication. This paper documents new and extensive micro evidence for habit formation, through survey experiments eliciting ten preference parameters informative about habit formation. The evidence suggests that habit forms both internally and externally, depreciates by around two-thirds annually, and has an about equisized welfare impact as peer effect. I also propose and implement four tests of additive and multiplicative habits and find that these ubiquitous preferences are rejected. Evidence-based simulations show that combining habit formation with peer effect could explain the Easterlin paradox. Finally, this paper advances the preference elicitation methods by introducing higher-than-first-order approximations, enabling elicitation of preference parameters not previously elicitable.</font>
 
 ### Publication
-**A Social Interaction Model with Ordered Choices**, with Xiaodong Liu, *Economics Letters*, 2017. [[PDF]](/research/ordered_choice/social_interactions_with_ordered_choices.pdf)  
+**A Social Interaction Model with Ordered Choices**, with Xiaodong Liu, *Economics Letters*, 2017. [[Paper]](/research/ordered_choice/social_order_paper.pdf) [[Appendix]](social_order_appendix.pdf)
+  
 <font size="4">We introduce a social interaction model with ordered choices. We provide a micro foundation
 for the econometric model based on an incomplete information network game and characterize the sufficient condition for the existence of a unique equilibrium of the game. We discuss the identification of the model and propose to estimate the model by the NFXP and NPL algorithms. We conduct Monte Carlo simulations to investigate the finite sample performance of these two estimation methods.</font>
 
