@@ -5,7 +5,7 @@ title: Research
 ---
 
 ### Working Paper
-<font size="4">**Survey Evidence on Habit Formation: Existence, Specification, and Implication** (Job Market Paper) [[Paper]](/research/habit/Habit_Zhou_Paper.pdf)</font>    
+<font size="4">**Survey Evidence on Habit Formation: Existence, Specification, and Implication** (Job Market Paper)</font>  [[Paper]](/research/habit/Habit_Zhou_Paper.pdf)   
 Habit formation is a staple of macroeconomics and finance, but insufficient micro evidence has led to controversies over its existence, specification, and implication. This paper documents new and extensive micro evidence for habit formation, through survey experiments eliciting ten preference parameters informative about habit formation. The evidence suggests that habit forms both internally and externally, depreciates by around two-thirds annually, and has an about equisized welfare impact as peer effect. I also propose and implement four tests of additive and multiplicative habits and find that these ubiquitous preferences are rejected. Evidence-based simulations show that combining habit formation with peer effect could explain the Easterlin paradox.
 
 ### Publication
