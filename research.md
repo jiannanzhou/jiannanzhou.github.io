@@ -15,10 +15,10 @@ for the econometric model based on an incomplete information network game and ch
 
 ### Research Papers
 
-**Efficiency Wages and the Cost of Business Cycles**    
+**Efficiency Wages and the Cost of Business Cycles** [Draft coming]    
 In many macroeconomic models, the cost of business cycle fluctuations is too small to justify the effort being put into stabilization policies, and no model from the literature that tries to generate larger costs of business cycle fluctuations has become standard. In this paper, I integrate the labor market interactions as reflected by efficiency wages into an otherwise New Keynesian model to show how fluctuations can change the mean level of unemployment, thereby creating a large cost of business cycles.
 
-**Measuring Altruism**    
+**Measuring Altruism** [Draft coming]    
 Altruism relates to the main goal of socialization, to a core attribute of personality, and to theories concerned with human nature (Krebs, 1970). However, little economic literature has measured altruism directly. Does altruism exist in people’s economic behavior? Does it vary systematically with relationships and demographics? Structurally estimating a measure of altruism, I find that altruism exists and that after controlling for demographics and behavior, the level of altruism increases with the closeness of relationships. Senior white people who are healthier and have more children are, on average, more altruistic than others. Regarding behavior, people measured as being more selfless tend to retire later, to save more before retirement and for precautionary purposes, to be more likely to leave a bequest greater than $10,000, to transfer more than $500 to children while alive, and to spend more than 100 hours helping a grandchild.
 
 ### Works in Progress
