@@ -15,7 +15,7 @@ for the econometric model based on an incomplete information network game and ch
 
 ### Research Papers
 
-**Efficiency Wages and the Cost of Business Cycles** [[Paper]](/research/efficiency_wage_CBC/Efficiency_Wage_CBC_Zhou.pdf)    
+**Efficiency Wages and the Cost of Business Cycles** [[Paper]](/research/efficiency_wage_CBC/Efficiency_Wage_CBC_Zhou_Paper.pdf)    
 In many macroeconomic models, the cost of business cycle fluctuations is too small to justify the enormous effort being put into stabilization policies. This paper proposes efficiency wage as a new explanation for the observed large cost of business cycles. When high unemployment makes jobs more valuable, employed workers work harder to keep their jobs, making it less necessary for firms to use high wages to elicit efforts from their workers. Changes in wages eventually translate into changes in prices, and high unemployment is therefore not as disinflationary as low unemployment is inflationary, implying a higher cost of business cycles.
 
 **Measuring Altruism** [[Paper]](/research/altruism/Altruism_Zhou_Paper.pdf)    
