@@ -16,6 +16,6 @@ Econometrics (PhD), 2016
 Principles of Macroeconomics, 2015, 2018, 2019  
 Intermediate Macroeconomic Theory, 2020    
 Principles of Microeconomics, 2014  
-Intermediate Microeconomic Theory, 2020, 2021    
+Intermediate Microeconomic Theory, 2020, 20s21    
 Environmental Economics, 2017  
 Introduction to Statistics with Computer Applications, 2020
