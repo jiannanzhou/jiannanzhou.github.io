@@ -16,6 +16,8 @@ for the econometric model based on an incomplete information network game and ch
 
 ### Works in Progress
 
+**Adjusting for Scale-Use Heterogeneity in Self-Reported Well-Being** with Daniel Benjamin, Kristen Cooper, Ori Heffetz, and Miles Kimball
+
 **Cost of Business Cycles When Unemployment Is a Worker Discipline Device** 
 
 **Measuring Altruism** 
