@@ -20,7 +20,7 @@ title: Research
 > We introduce a social interaction model with ordered choices. We provide a micro foundation for the econometric model based on an incomplete information network game and characterize the sufficient condition for the existence of a unique equilibrium of the game. We discuss the identification of the model and propose to estimate the model by the NFXP and NPL algorithms. We conduct Monte Carlo simulations to investigate the finite sample performance of these two estimation methods.
 
 
-### Works in Progress
+### Work in Progress
 **Cost of Business Cycles When Unemployment Is a Worker Discipline Device** 
 
 **Measuring Altruism** 
