@@ -5,7 +5,7 @@ title: Research
 ---
 
 ### Working Paper
-**Adjusting for Scale-Use Heterogeneity in Self-Reported Well-Being** with Daniel Benjamin, Kristen Cooper, Ori Heffetz, and Miles Kimball [[Paper]](/research/scale_use/BCHKZ.pdf) [[NBER]](https://www.nber.org/papers/w31728) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4568587)    
+**Adjusting for Scale-Use Heterogeneity in Self-Reported Well-Being**, with Daniel Benjamin, Kristen Cooper, Ori Heffetz, and Miles Kimball. [[Paper]](/research/scale_use/BCHKZ.pdf) [[NBER]](https://www.nber.org/papers/w31728) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4568587)    
 > Analyses of self-reported-well-being (SWB) survey data may be confounded if people use response scales differently. We use calibration questions, designed to have the same objective answer across respondents, to measure dimensional (i.e., specific to an SWB dimension) and general (i.e., common across questions) scale-use heterogeneity. In a sample of ~3,350 MTurkers, we find substantial such heterogeneity that is correlated with demographics. We develop a theoretical framework and econometric approaches to quantify and adjust for this heterogeneity. We apply our new estimators in several standard SWB applications. Adjusting for general-scale-use heterogeneity changes results in some cases.
 
 
@@ -25,7 +25,7 @@ title: Research
 
 **Measuring Altruism** 
 
-**Elections and Happiness** with Miles Kimball, Collin Raymond, Junya Zhou, Fumio Ohtake, Yoshiro Tsutsui    
+**Elections and Happiness**, with Miles Kimball, Collin Raymond, Junya Zhou, Fumio Ohtake, Yoshiro Tsutsui.    
 
 **Habit Formation Preferences Consistent with Survey Evidence: Axiomatics and Implications**    
 
