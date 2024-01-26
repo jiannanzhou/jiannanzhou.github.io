@@ -29,8 +29,6 @@ title: Research
 
 **Measuring Altruism** 
 
-**Elections and Happiness**, with Miles Kimball, Collin Raymond, Junya Zhou, Fumio Ohtake, Yoshiro Tsutsui.    
-
 **Habit Formation Preferences Consistent with Survey Evidence: Axiomatics and Implications**    
 
 
