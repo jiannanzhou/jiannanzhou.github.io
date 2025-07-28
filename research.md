@@ -10,8 +10,8 @@ title: Research
 
 
 
-**Survey Evidence on Habit Formation: Existence, Specification, and Implication** [[Paper]](/research/habit/Habit_Zhou_Paper.pdf) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685591)  
-> Habit formation is a staple of macroeconomics and finance, but insufficient micro evidence has led to controversies over its existence, specification, and implication. This paper documents new and extensive micro evidence for habit formation, through survey experiments eliciting ten preference parameters informative about habit formation. The evidence suggests that habit forms both internally and externally, depreciates by around two-thirds annually, and has an about equisized welfare impact as peer effect. I also propose and implement the first set of formal tests of additive and multiplicative habits and find that these ubiquitous preferences are rejected. Evidence-based simulations show that combining habit formation with peer effect could explain the Easterlin paradox.
+**Measuring Habit Formation** *New Version Coming Soon* [[Old version]](/research/habit/Habit_Zhou_Paper.pdf) [[Old version SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685591)  
+> For millennia, habit formation has been recognized as essential across numerous disciplines, yet insufficient economic measurements have led to controversies regarding its existence, specification, and implications. This paper introduces new and extensive measurements of habit formation through hypothetical-choice experiments that elicit nine habit-related preference parameters. The findings reveal that habit forms internally, decays by two-thirds annually, and exerts a welfare impact three times that of peer effects. We introduce and conduct the first formal tests of additive and multiplicative habits, demonstrating systematic rejection of these widely used specifications. The measurements indicate that, contrary to common beliefs, habit formation alone (or peer effects alone) cannot resolve the Easterlin paradox, although combining them could.
 
 
 
