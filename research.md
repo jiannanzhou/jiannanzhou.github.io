@@ -10,7 +10,8 @@ title: Research
 
 
 
-**Measuring Habit Formation** *New Version Coming Soon* [[Old version]](/research/habit/Habit_Zhou_Paper.pdf) [[Old version SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685591)  
+**Measuring Habit Formation** *New Version Coming Soon* [[JMP version]](/research/habit/Habit_Zhou_Paper.pdf) 
+<!-- [[Old version SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685591)   -->
 > For millennia, habit formation has been recognized as essential across numerous disciplines, yet insufficient economic measurements have led to controversies regarding its existence, specification, and implications. This paper introduces new and extensive measurements of habit formation through hypothetical-choice experiments that elicit nine habit-related preference parameters. The findings reveal that habit forms internally, decays by two-thirds annually, and exerts a welfare impact three times that of peer effects. We introduce and conduct the first formal tests of additive and multiplicative habits, demonstrating systematic rejection of these widely used specifications. The measurements indicate that, contrary to common beliefs, habit formation alone (or peer effects alone) cannot resolve the Easterlin paradox, although combining them could.
 
 
