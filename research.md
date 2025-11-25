@@ -5,19 +5,22 @@ title: Research
 ---
 
 ### Working Paper
-**Adjusting for Scale-Use Heterogeneity in Self-Reported Well-Being**, with Daniel Benjamin, Kristen Cooper, Ori Heffetz, and Miles Kimball. [[Paper]](/research/scale_use/BCHKZ.pdf) [[NBER]](https://www.nber.org/papers/w31728) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4568587) [[Appendices A-J]](/research/scale_use/BCHKZ_Appendices_AJ.pdf) [[Appendix K]](/research/scale_use/BCHKZ_Appendix_K.pdf)    
+**Adjusting for Scale-Use Heterogeneity in Self-Reported Well-Being**, with [[Daniel Benjamin]](https://www.danieljbenjamin.com), [[Kristen Cooper]](https://sites.google.com/site/kristenbcooper/), [[Ori Heffetz]](https://users.nber.org/~heffetz/), and [[Miles Kimball]](https://blog.supplysideliberal.com/about/). [[Paper]](/research/scale_use/BCHKZ.pdf) [[NBER]](https://www.nber.org/papers/w31728) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4568587) [[Appendices A-J]](/research/scale_use/BCHKZ_Appendices_AJ.pdf) [[Appendix K]](/research/scale_use/BCHKZ_Appendix_K.pdf)    
 > Analyses of self-reported-well-being (SWB) survey data may be confounded if people use response scales differently. We use calibration questions, designed to have the same objective answer across respondents, to measure scale-use heterogeneity, both dimensional (i.e., specific to an SWB dimension) and general (common across questions). In a sample of ~3,350 MTurkers, we find substantial such heterogeneity that is correlated with demographics. We develop a theoretical framework and econometric approaches to quantify and adjust for this heterogeneity. We apply our new estimators in several standard SWB applications. Our framework sheds light on when and how adjusting for general-scale-use heterogeneity changes results.
 
 
 
-**Measuring Habit Formation** *New Version Coming Soon* [[JMP version]](/research/habit/Habit_Zhou_Paper.pdf) 
-<!-- [[Old version SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685591)   -->
-> For millennia, habit formation has been recognized as essential across numerous disciplines, yet insufficient economic measurements have led to controversies regarding its existence, specification, and implications. This paper introduces new and extensive measurements of habit formation through hypothetical-choice experiments. The findings reveal that habit forms internally, decays by two-thirds annually, and exerts a welfare impact three times that of peer effects. We introduce the first formal tests of the widely used additive and multiplicative habit specifications. The measurements indicate that, contrary to common beliefs, habit formation alone (or peer effects alone) cannot resolve the Easterlin paradox, although combining them could.
+**Measuring Habit Formation** *Coming Soon*  
+> For millennia, habit formation has been recognized as essential across many disciplines, yet insufficient economic measurements have led to controversies over its existence, parameterization, and implications. This paper introduces a novel approach that can provide direct micro-level evidence on habit formation, while overcoming identification challenges inherent in existing approaches. We specify total consumption variations that separately identify habit's internal and external formation, decay speed, and welfare impacts relative to consumption and peer effects. Implementing the variations through survey experiments, we shed new light on the modeling of habit formation and quantify its role in resolving the Easterlin paradox.
 
 
 
 **Happiness, Reference Dependence, and Motivated Beliefs in U.S. Presidential Elections**, with Miles Kimball, Collin Raymond, Junya Zhou, Fumio Ohtake, and Yoshiro Tsutsui. [[Paper]](/research/election_happiness/w32078.pdf) [[NBER]](https://www.nber.org/papers/w32078)    
 > Collecting and analyzing panel data over the last four U.S. presidential elections, we study the drivers of self-reported happiness.  We relate our empirical findings to existing models of elation, reference dependence, and belief formation. In addition to corroborating previous findings in the literature (hedonic asymmetry/hedonic loss aversion, hedonic adaptation and motivated beliefs), we provide novel results that extend the literature in four dimensions.  First, happiness responds to changes relative to both the political status quo (i.e., the incumbent presidential party) and the expected electoral outcome, providing support for two major hypotheses regarding reference point formation. Individuals exhibit hedonic loss aversion to deviations from expectations, but hedonic loss neutrality to changes from the status quo.  Second, the speed of hedonic adaptation to deviations from the status quo is significantly slower than the speed of hedonic adaptation to surprises.  Third, expectations affect happiness in a nonlinear way, consistent with Gul's model of disappointment aversion, but contrary to other influential reference-dependent models. Fourth, both "objective" and motivated subjective beliefs matter for the happiness reactions, although subjective beliefs matter more.
+
+**Survey Evidence on Habit Formation**, Job Market Paper, 2021. [[Paper]](/research/habit/Habit_Zhou_Paper.pdf)
+<!-- [[Old version SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685591)   -->
+> This is a long and comprehensive job market paper version and has now been superseded by two papers: "Measuring Habit Formation" and "Testing Habit Formation."
 
 
 ### Publication
@@ -26,6 +29,8 @@ title: Research
 
 
 ### Work in Progress
+**Testing Habit Formation**
+
 **Cost of Business Cycles When Unemployment Is a Worker Discipline Device** 
 
 **Measuring Altruism** 
