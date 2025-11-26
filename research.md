@@ -10,7 +10,7 @@ title: Research
 
 
 
-**Measuring Habit Formation** *Coming Soon*  
+**Measuring Habit Formation**. *Coming Soon*  
 > For millennia, habit formation has been recognized as essential across many disciplines, yet insufficient economic measurements have led to controversies over its existence, parameterization, and implications. This paper introduces a novel approach that can provide direct micro-level evidence on habit formation while overcoming identification challenges inherent in existing approaches. We specify total consumption variations that separately identify habit's internal and external formation, decay speed, and welfare impacts relative to consumption and peer effects. Implementing the variations through survey experiments, we shed new light on the modeling of habit formation and quantify its role in resolving the Easterlin paradox.
 
 
