@@ -11,7 +11,7 @@ title: Research
 
 
 **Measuring Habit Formation**. [[Paper]](/research/measuring_habit/Measuring_Habit_Formation_Zhou.pdf)  
-> Habit formation features prominently in macroeconomic theory, yet insufficient measurement has fueled controversies over its existence, parameterization, and implications. We specify total-consumption variations that separately identify habit's internal and external formation, decay speed, and welfare impacts relative to consumption and peer effects. Implementing them in survey experiments, we find that habit forms internally, decays by two-thirds annually, and exerts a welfare impact equivalent to 63% of that from consumption and three times that from peer effects. Contrary to common belief, habit formation alone (or peer effects alone) cannot resolve the Easterlin paradox, although combining them can largely account for it.
+> For millennia, habit formation has been recognized as essential across disciplines, yet insufficient economic measurement has fueled controversies over its existence, parameterization, and implications. We specify total-consumption variations that separately identify habit's internal and external formation, decay speed, and welfare impacts relative to consumption and peer effects. Implementing them in survey experiments, we find that habit forms internally, decays by two-thirds annually, and exerts a welfare impact equal to 63% of consumption's and three times that of peer effects. Contrary to common belief, neither habit formation nor peer effects alone can resolve the Easterlin paradox, but their combination largely can.
 
 
 
